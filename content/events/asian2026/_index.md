@@ -427,7 +427,7 @@ Under the following link, conference participants will find a **[limited conting
 
 ## Organization and Contact
 
-The conference is organized by organized by the [Beihang University](https://global.buaa.edu.cn/en/) and [Nanjing Yuansi SimTek Co., Ltd.](https://en.simtek.cc/) in cooperation with the [Modelica Association](/association/).
+The conference is organized by the [Beihang University](https://global.buaa.edu.cn/en/) and [Nanjing Yuansi SimTek Co., Ltd.](https://en.simtek.cc/) in cooperation with the [Modelica Association](/association/).
 
 
 
