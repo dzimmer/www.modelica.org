@@ -465,6 +465,7 @@ For general questions, please contact
 - Dr. Christian Bertsch, Robert Bosch GmbH, Germany
 - Dr. Yutaka Hirano, Hirano research Laboratory, Japan
 - Dr. Dai Araki, Toshiba Digital Solution, Japan
+- Prof. Tielong Shen, Dalian Univ. of Technology & Emeritus Professor (Sophia Univ.)
 - Dr. Daeoh Kang, iVH, Korea
 - Dr. Aiguo Xu, Nanjing Yuansi SimTek., Co., Ltd. China
 - Dr. Fanli Zhou, Suzhou Tongyuan Software & Control Technology Co., Ltd. China
